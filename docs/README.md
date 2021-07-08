@@ -32,7 +32,7 @@ Implements Skip-Link blocks.
     "skip-link-anchor",
     "list-context.image-list#demo",
     /* You can make references to blocks defined in other files.
-      * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
+     * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
     "__fold__.experimentalLazyAssets",
     "flex-layout.row#deals",
     "rich-text#shelf-title",
